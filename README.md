@@ -3,7 +3,7 @@
 Ứng dụng quản lý nhân sự (HR Management) dành cho Android, được xây dựng với mục tiêu quản lý danh sách nhân viên, tính lương và lọc dữ liệu hiệu quả.
 
 > [!IMPORTANT]
-> **Tải file APK tại đây:** [HrManagementApp.apk](file:///home/nor/AndroidStudioProjects/MyApplication3/HrManagementApp.apk)
+> **File APK: ** [HrManagementApp.apk](https://github.com/Nor262/B24DCCC229_KTGK_APP/blob/main/HrManagementApp.apk)
 
 ---
 
