@@ -22,6 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".EmployeeFormActivity" android:label="Employee Form" />
+        <activity android:name=".EmployeeDetailActivity" android:label="Employee Detail" />
     </application>
 
 </manifest>
